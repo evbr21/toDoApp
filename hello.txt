@@ -1,1 +1,2 @@
-HALLO
+HALLO, Julia.
+Wie geht es dir? Mir geht es gut.
